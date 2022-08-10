@@ -1,4 +1,4 @@
-import { ORC_MAX_LIFE_POINTS } from '../helpers/magicNumbers';
+import { ORC_MAX_LIFE_POINTS } from '../utils/magicNumbers';
 import Race from './Race';
 
 export default class Orc extends Race {

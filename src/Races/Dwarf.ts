@@ -1,4 +1,4 @@
-import { DWARF_MAX_LIFE_POINTS } from '../helpers/magicNumbers';
+import { DWARF_MAX_LIFE_POINTS } from '../utils/magicNumbers';
 import Race from './Race';
 
 export default class Dawrf extends Race {
